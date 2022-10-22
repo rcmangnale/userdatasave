@@ -49,7 +49,7 @@ function AddressDetails() {
     }
     return (
 
-        <div className='flex bg-white p-[200px] justify-center'>
+        <div className='flex bg-white md:p-[200px] p-1 justify-center'>
             <div className='bg-gray-100 w-[50%] rounded-md py-2 border border-black'>
                 <span className='flex justify-center py-2 text-2xl font-semibold text-gray-800'>Enter Your Previous Address</span>
                 <div className='p-4 space-y-5'>

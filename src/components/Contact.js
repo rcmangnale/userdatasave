@@ -106,7 +106,7 @@ export default function ContactDetails() {
   };
 
   return (
-    <div className="flex bg-white p-[200px] justify-center">
+    <div className="flex bg-white md:p-[200px] p-1 justify-center">
       {next === true ? (
         <>
           <div className="bg-gray-100 w-[50%] border-2 border-black rounded-md py-2">
