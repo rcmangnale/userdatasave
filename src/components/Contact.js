@@ -5,12 +5,12 @@ import { Link, useNavigate } from "react-router-dom";
 import { publicIpv4 } from "public-ip";
 
 const initValue = {
-    ip_address: "",
-    device_type: "",
-    browser_type: "",
-    user_agent: "",
-  };
-  
+  ip_address: "",
+  device_type: "",
+  browser_type: "",
+  user_agent: "",
+};
+
 const initialValue = {
   firstname: "",
   lastname: "",
